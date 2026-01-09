@@ -4,4 +4,4 @@
 - Gonzalo Torres Arroyo
 ## Reparto de tareas 
 - Creación del repositorio: Gonzalo Torres Arroyo.
-- 
+- Marta: clonar repositorio
